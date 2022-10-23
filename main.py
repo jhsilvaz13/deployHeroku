@@ -4,4 +4,4 @@ app=FastAPI()
 
 @app.get("/")
 async def get():
-    return "Heññp"
+    return "Hello"
